@@ -569,10 +569,6 @@ border-color: var(--color-accent);
   color: var(--color-accent);
 }
 
-.footer-column {
-
-}
-
 .footer-column + .footer-column{
   margin-left: 70px;
   margin-top: 12px;
