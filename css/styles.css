@@ -126,7 +126,7 @@ img {
 }
 
 .head-navigation-contacts-link:focus,
-.head-navigation-contacts-link:hover{
+.head-navigation-contacts-link:hover {
   color: var(--color-accent);
 }
 
@@ -253,7 +253,7 @@ background-color: var(--color-hover);
   color: var(--color-gray);
 }
 
-.benefits-icon{
+.benefits-icon {
   border-radius: 4px;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
@@ -282,13 +282,13 @@ background-color: var(--color-hover);
 }
 
 /* 2й вариант */
-/* .doing-list-item + .doing-list-item{
+/* .doing-list-item + .doing-list-item {
   margin-left: 30px;
 } */
 
 /* ----------НАША КОМАНДА---------- */
 
-.our-team{
+.our-team {
   background-color: var(--color-team);
   padding-top: 94px;
   padding-bottom: 94px; 
@@ -314,7 +314,7 @@ background-color: var(--color-hover);
   background-color: var(--color-white);
 }
 
-.team-list-item + .team-list-item{
+.team-list-item + .team-list-item {
   margin-left: 30px;
 }
 
@@ -370,7 +370,7 @@ background-color: var(--color-hover);
 }
 
 .masters-soc-link:hover,
-.masters-soc-link:focus{
+.masters-soc-link:focus {
   background-color: var(--color-accent);
 }
 
@@ -537,7 +537,7 @@ border-color: var(--color-accent);
   color: var(--color-accent);
 }
 
-.basement-link-span{
+.basement-link-span {
   display: inline-block;
   color: var(--color-white);
 }
@@ -569,7 +569,7 @@ border-color: var(--color-accent);
   color: var(--color-accent);
 }
 
-.footer-column + .footer-column{
+.footer-column + .footer-column {
   margin-left: 70px;
 }
 
@@ -607,12 +607,12 @@ border-color: var(--color-accent);
 }
 
 .socials-link:hover,
-.socials-link:focus{
+.socials-link:focus {
   background-color: var(--color-accent);
 }
 
 .socials-link:hover .socials-icon,
-.socials-link:focus .socials-icon{
+.socials-link:focus .socials-icon {
   fill: var(--color-white);
 }
 
