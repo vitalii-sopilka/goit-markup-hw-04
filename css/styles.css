@@ -338,7 +338,7 @@ background-color: var(--color-hover);
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--color-gray);   
+  color: var(--color-gray);
 }
 
 .masters-soc-list {
@@ -367,7 +367,7 @@ background-color: var(--color-hover);
 
 .master-soc-icon {
   fill: rgba(175, 177, 184, 1);
-}
+} 
 
 .masters-soc-link:hover,
 .masters-soc-link:focus {
